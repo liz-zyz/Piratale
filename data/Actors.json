@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":7,"characterName":"Original5","classId":1,"equips":[0,0,0,0,4,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"透明","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"PIRA","classId":1,"equips":[0,0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"チンピラ","nickname":"","note":"<w:0.375>\n<h:0.9>\n<dodge_Time:15>\n<ammo_offsetY:0>","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"PIRA","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"チンピラ","nickname":"","note":"<w:0.15>\n<h:0.3>\n<dodge_Time:15>\n<ammo_offsetY:0>\n<damageOffsetX:20>\n<damageOffsetY:-50>\n\n<Set Sts Data>\nTreeType: 18,19,20,21,22\nInit Sp: 1\n</Set Sts Data>\n","profile":""},
+{"id":4,"battlerName":"","characterIndex":1,"characterName":"PIRA","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"カイキ","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
